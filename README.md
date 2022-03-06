@@ -1,3 +1,7 @@
+더욱 자세한 대회 진행 과정은 개인 블로그에 기록했습니다.
+
+[링크](https://www.devchopin.com/blog/218/)
+
 <img src='boostcamp.png'>
 # Wrap Up Report
 RecSys 12 - 12걸지말조  
