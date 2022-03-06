@@ -50,7 +50,9 @@ RecSys 12 - 12걸지말조
   - vi) Scheduler : CosineAnnealingLR
 
 ### 3.3 검증과정 및 앙상블
+
 <img src='img1.png' width = "1000px">
+
 - 검증방법
   - 모델1과 2 모두 K를 5로 설정한 K-Fold CV로 검증방법 선택
 - 앙상블  
